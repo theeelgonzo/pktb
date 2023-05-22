@@ -1,1206 +1,1207 @@
-{
-    "id": "001",
-    "name": "Bulbasaur",
-    "primaryType": "Grass",
-    "secondaryType": "Poison",
-    "description" : "null"
-},
-{
-    "id": "002",
-    "name": "Ivysaur",
-    "primaryType": "Grass",
-    "secondaryType": "Poison",
-    "description": "null"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-},
-{
-    "id": "integer",
-    "name": "string",
-    "primaryType": "string",
-    "secondaryType": "string",
-    "level": "integer",
-    "hitPoints": "integer"
-}
+[
+    {
+        "id": "001",
+        "name": "Bulbasaur",
+        "primaryType": "Grass",
+        "secondaryType": "Poison",
+        "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokemon."
+    },
+    {
+        "id": "002",
+        "name": "Ivysaur",
+        "primaryType": "Grass",
+        "secondaryType": "Poison",
+        "description": "When the bulb on its back grow large, it appears to lose the ability to stand on its hind legs."
+    },
+    {
+        "id": "003",
+        "name": "Venusaur",
+        "primaryType": "Grass",
+        "secondaryType": "Poison",
+        "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    },
+    {
+        "id": "integer",
+        "name": "string",
+        "primaryType": "string",
+        "secondaryType": "string",
+        "level": "integer",
+        "hitPoints": "integer"
+    }
+]
