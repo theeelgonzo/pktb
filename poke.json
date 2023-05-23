@@ -238,11 +238,11 @@
         "description": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "035",
+        "name": "Clefairy",
+        "primaryType": "Fairy",
+        "secondaryType": "Null",
+        "description": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas."
     },
     {
         "id": "integer",
