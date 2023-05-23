@@ -70,74 +70,74 @@
         "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "011",
+        "name": "Metapod",
+        "primaryType": "Bug",
+        "secondaryType": "Null",
+        "description": "This Pokemon is vulnerable to attack while its shell is soft, exposing its weak and tender body."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "012",
+        "name": "Butterfree",
+        "primaryType": "Bug",
+        "secondaryType": "Flying",
+        "description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "013",
+        "name": "Weedle",
+        "primaryType": "Bug",
+        "secondaryType": "Poison",
+        "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "014",
+        "name": "Kakuna",
+        "primaryType": "Bug",
+        "secondaryType": "Poison",
+        "description": "Almost incapable of moving, this Pokemon can only harden its shell to protect itself from predators."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "015",
+        "name": "Beedrill",
+        "primaryType": "Bug",
+        "secondaryType": "Poison",
+        "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "016",
+        "name": "Pidgey",
+        "primaryType": "Normal",
+        "secondaryType": "Flying",
+        "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "017",
+        "name": "Pidgeotto",
+        "primaryType": "Normal",
+        "secondaryType": "Flying",
+        "description": "Very protective of its sprawling territorial area, this Pokemon will fiercely peck at any intruder."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "018",
+        "name": "Pidgeot",
+        "primaryType": "Normal",
+        "secondaryType": "Flying",
+        "description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "019",
+        "name": "Rattata",
+        "primaryType": "Normal",
+        "secondaryType": "Null",
+        "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "020",
+        "name": "Raticate",
+        "primaryType": "Normal",
+        "secondaryType": "Null",
+        "description": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off."
     },
     {
         "id": "integer",
