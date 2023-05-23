@@ -76,8 +76,6 @@
         "secondaryType": "string",
         "description": ""
     },
-
-    {
     {
         "id": "integer",
         "name": "string",
@@ -85,6 +83,7 @@
         "secondaryType": "string",
         "description": ""
     },
+    {
         "id": "integer",
         "name": "string",
         "primaryType": "string",
