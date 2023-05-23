@@ -140,102 +140,102 @@
         "description": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "021",
+        "name": "Spearow",
+        "primaryType": "Normal",
+        "secondaryType": "Flying",
+        "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "022",
+        "name": "Fearow",
+        "primaryType": "Normal",
+        "secondaryType": "Flying",
+        "description": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "023",
+        "name": "Ekans",
+        "primaryType": "Poison",
+        "secondaryType": "Null",
+        "description": "Moves silently and stealthily. Eats the eggs of birds, such as Pidgey and Spearow, whole."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "024",
+        "name": "Arbok",
+        "primaryType": "Poison",
+        "secondaryType": "Null",
+        "description": "It is rumored that the ferocious warning markings on its belly differ from area to area."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "025",
+        "name": "Pikachu",
+        "primaryType": "Electric",
+        "secondaryType": "Null",
+        "description": "When several of these Pokemon gather, their electricity could build and cause lightning storms."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "026",
+        "name": "Raichu",
+        "primaryType": "Electric",
+        "secondaryType": "Null",
+        "description": "Its long tail serves as a ground to protect itself from its own high voltage power."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "027",
+        "name": "Sandshrew",
+        "primaryType": "Ground",
+        "secondaryType": "Null",
+        "description": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "028",
+        "name": "Sandslash",
+        "primaryType": "Ground",
+        "secondaryType": "Null",
+        "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "029",
+        "name": "Nidoran",
+        "primaryType": "Poison",
+        "secondaryType": "Null",
+        "description": "Although small, its venomous barbs render this Pokemon dangerous. The female has smaller horns."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "030",
+        "name": "Nidorina",
+        "primaryType": "Poison",
+        "secondaryType": "Null",
+        "description": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "031",
+        "name": "Nidoqueen",
+        "primaryType": "Poison",
+        "secondaryType": "Ground",
+        "description": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "032",
+        "name": "Nidoron",
+        "primaryType": "Poison",
+        "secondaryType": "Null",
+        "description": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "033",
+        "name": "Nidorino",
+        "primaryType": "Poison",
+        "secondaryType": "Null",
+        "description": "An aggressive Pokemon that is quick to attack. The horn on its head secretes a powerful venom."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "description": ""
+        "id": "034",
+        "name": "Nidoking",
+        "primaryType": "Poison",
+        "secondaryType": "Ground",
+        "description": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones."
     },
     {
         "id": "integer",
