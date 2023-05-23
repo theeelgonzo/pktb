@@ -63,20 +63,18 @@
         "description": "A brutal Pokemon with pressurized water jets on its shell. They are used for high speed tackles."
     },
     {
-        "id": "integer",
-        "name": "string",
-        "primaryType": "string",
-        "secondaryType": "string",
-        "level": "integer",
-        "hitPoints": "integer"
+        "id": "010",
+        "name": "Caterpie",
+        "primaryType": "Bug",
+        "secondaryType": "Null",
+        "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
     },
     {
         "id": "integer",
         "name": "string",
         "primaryType": "string",
         "secondaryType": "string",
-        "level": "integer",
-        "hitPoints": "integer"
+        "description": ""
     },
     {
         "id": "integer",
