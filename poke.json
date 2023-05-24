@@ -249,35 +249,35 @@
         "name": "Clefable",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "A timid fairy Pokemon that is rarely seen. It will run and hide the moment it senses people."
     },
     {
         "id": "037",
         "name": "Vulpix",
         "primaryType": "Fire",
         "secondaryType": "Null",
-        "description": ""
+        "description": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older."
     },
     {
         "id": "038",
         "name": "Ninetales",
         "primaryType": "Fire",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse."
     },
     {
         "id": "039",
         "name": "Jigglypuff",
         "primaryType": "Normal",
         "secondaryType": "Normal",
-        "description": ""
+        "description": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep."
     },
     {
         "id": "040",
         "name": "Wigglytuff",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size."
     },
     {
         "id": "041",
