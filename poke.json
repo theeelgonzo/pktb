@@ -284,35 +284,35 @@
         "name": "Zubat",
         "primaryType": "Poison",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets."
     },
     {
         "id": "042",
         "name": "Golbat",
         "primaryType": "Poison",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly."
     },
     {
         "id": "043",
         "name": "Oddish",
         "primaryType": "Grass",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
     },
     {
         "id": "044",
         "name": "Gloom",
         "primaryType": "Grass",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey."
     },
     {
         "id": "045",
         "name": "Vileplume",
         "primaryType": "Grass",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
     },
     {
         "id": "046",
