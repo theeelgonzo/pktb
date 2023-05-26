@@ -354,84 +354,84 @@
         "name": "Dugtrio",
         "primaryType": "Ground",
         "secondaryType": "Null",
-        "description": ""
+        "description": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground."
     },
     {
         "id": "052",
         "name": "Meowth",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change."
     },
     {
         "id": "053",
         "name": "Persian",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
     },
     {
         "id": "054",
         "name": "Psyduck",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "While lulling its enemies with its vacant look, this wily Pokemon will use psychokinetic powers."
     },
     {
         "id": "055",
         "name": "Golduck",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa."
     },
     {
         "id": "056",
         "name": "Mankey",
         "primaryType": "Fighting",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Extremeley quick to anger. It could be docile one moment then thrashing away the next instant."
     },
     {
         "id": "057",
         "name": "Primeape",
         "primaryType": "Fighting",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Always furious and tenacious to boot. It will not abandon chasing its quarry until is caught."
     },
     {
         "id": "058",
         "name": "Growlithe",
         "primaryType": "Fire",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Very protective of its territory. It will bark and bite to repel intruders from its space."
     },
     {
         "id": "059",
         "name": "Arcanine",
         "primaryType": "Fire",
         "secondaryType": "Null",
-        "description": ""
+        "description": "A Pokemon that has been admired since the past for its beauty. It runs agilely as if on wings."
     },
     {
         "id": "060",
         "name": "Poliwag",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand."
     },
     {
         "id": "061",
         "name": "Poliwhirl",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy."
     },
     {
         "id": "062",
         "name": "Poliwrath",
         "primaryType": "Water",
         "secondaryType": "Fighting",
-        "description": ""
+        "description": "An adept swimming at both the front crawl and breast stroke. Easily overtakes the best human swimmers."
     },
     {
         "id": "063",
