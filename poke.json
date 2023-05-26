@@ -319,35 +319,35 @@
         "name": "Paras",
         "primaryType": "Bug",
         "secondaryType": "Grass",
-        "description": ""
+        "description": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host."
     },
     {
         "id": "047",
         "name": "Parasect",
         "primaryType": "Bug",
         "secondaryType": "Grass",
-        "description": ""
+        "description": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places."
     },
     {
         "id": "048",
         "name": "Venonat",
         "primaryType": "Bug",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night."
     },
     {
         "id": "049",
         "name": "Venomoth",
         "primaryType": "Bug",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has."
     },
     {
         "id": "050",
         "name": "Diglett",
         "primaryType": "Ground",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground."
     },
     {
         "id": "051",
