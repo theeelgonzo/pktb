@@ -445,14 +445,14 @@
         "name": "Kadabra",
         "primaryType": "Psychic",
         "secondaryType": "Null",
-        "description": ""
+        "description": "It emits special alpha waves from its body that induce headaches just by being close by."
     },
     {
         "id": "065",
         "name": "Alakazam",
         "primaryType": "Psychic",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000."
     },
     {
         "id": "066",
