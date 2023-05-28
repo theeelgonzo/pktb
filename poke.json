@@ -459,70 +459,70 @@
         "name": "Machop",
         "primaryType": "Fighting",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger."
     },
     {
         "id": "067",
         "name": "Machoke",
         "primaryType": "Fighting",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions."
     },
     {
         "id": "068",
         "name": "Machamp",
         "primaryType": "Fighting",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon."
     },
     {
         "id": "069",
         "name": "Bellsprout",
         "primaryType": "Grass",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "A carnivorous POkemon that traps and eats bugs. It uses its root feet to soak up needed moisture."
     },
     {
         "id": "070",
         "name": "Weepinbell",
         "primaryType": "Grass",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "It spits out poison powder to immobilize the enemy and then finishes it with a spray of acid."
     },
     {
         "id": "071",
         "name": "Victreebel",
         "primaryType": "Grass",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "Said to live in huge colonies deep in jungles, although no one has ever returned from there."
     },
     {
         "id": "072",
         "name": "Tentacool",
         "primaryType": "Water",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid."
     },
     {
         "id": "073",
         "name": "Tentacruel",
         "primaryType": "Water",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey."
     },
     {
         "id": "074",
         "name": "Geodude",
         "primaryType": "Rock",
         "secondaryType": "Ground",
-        "description": ""
+        "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them."
     },
     {
         "id": "075",
         "name": "Graveler",
         "primaryType": "Rock",
         "secondaryType": "Ground",
-        "description": ""
+        "description": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
     },
     {
         "id": "076",
