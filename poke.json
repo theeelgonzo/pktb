@@ -529,175 +529,175 @@
         "name": "Golem",
         "primaryType": "Rock",
         "secondaryType": "Ground",
-        "description": ""
+        "description": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage."
     },
     {
         "id": "077",
         "name": "Ponyta",
         "primaryType": "Fire",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time."
     },
     {
         "id": "078",
         "name": "Rapidash",
         "primaryType": "Fire",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Very competitive, this Pokemon will chase anything that moves fast in the hopes of racing it."
     },
     {
         "id": "079",
         "name": "Slowpoke",
         "primaryType": "Water",
         "secondaryType": "Psychic",
-        "description": ""
+        "description": "Incredibly slow nad dopey. It takes 5 seconds for it to feel pain when under attack."
     },
     {
         "id": "080",
         "name": "Slowbro",
         "primaryType": "Water",
         "secondaryType": "Psychic",
-        "description": ""
+        "description": "The SHELLDER that is latched onto SLOWPOKE'S tail is said to feed on the host's left over scraps."
     },
     {
         "id": "081",
         "name": "Magnemite",
         "primaryType": "Electric",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves."
     },
     {
         "id": "082",
         "name": "Magneton",
         "primaryType": "Electric",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up."
     },
     {
         "id": "083",
         "name": "Farfetch'd",
         "primaryType": "Normal",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "The sprig of green onions it holds is its weapon. It is used much like a metal sword."
     },
     {
         "id": "084",
         "name": "Doduo",
         "primaryType": "Normal",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints."
     },
     {
         "id": "085",
         "name": "Dodrio",
         "primaryType": "Normal",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake."
     },
     {
         "id": "086",
         "name": "Seel",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "The protruding horn on its head is very hard. It is used for bashing through thick ice."
     },
     {
         "id": "087",
         "name": "Dewgong",
         "primaryType": "Water",
         "secondaryType": "Ice",
-        "description": ""
+        "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters."
     },
     {
         "id": "088",
         "name": "Grimer",
         "primaryType": "Poison",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories."
     },
     {
         "id": "089",
         "name": "Muk",
         "primaryType": "Poison",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison."
     },
     {
         "id": "090",
         "name": "Shellder",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
     },
     {
         "id": "091",
         "name": "Cloyster",
         "primaryType": "Water",
         "secondaryType": "Ice",
-        "description": ""
+        "description": "When attacked, it launches its horns in quick volleys. Its innards have never been seen."
     },
     {
         "id": "092",
         "name": "Gastly",
         "primaryType": "Ghost",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "Almost invisible, this gaseous Pokemon cloaks the target and puts it to sleep without notice."
     },
     {
         "id": "093",
         "name": "Haunter",
         "primaryType": "Ghost",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "Because of its ability to slip through block walls, it is said to be from another dimension."
     },
     {
         "id": "094",
         "name": "Gengar",
         "primaryType": "Ghost",
         "secondaryType": "Poison",
-        "description": ""
+        "description": "Under a full moon, this Pokemon likes to mimic the shadows of people and laugh at their fright."
     },
     {
         "id": "095",
         "name": "Onix",
         "primaryType": "Rock",
         "secondaryType": "Ground",
-        "description": ""
+        "description": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black."
     },
     {
         "id": "096",
         "name": "Drowzee",
         "primaryType": "Psychic",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams."
     },
     {
         "id": "097",
         "name": "Hypno",
         "primaryType": "Psychic",
         "secondaryType": "Null",
-        "description": ""
+        "description": "When it lockes eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION."
     },
     {
         "id": "098",
         "name": "Krabby",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Its pincers are not only powerful weapons, they are used for balance when walking sideways."
     },
     {
         "id": "099",
         "name": "Kingler",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use."
     },
     {
         "id": "100",
         "name": "Voltorb",
         "primaryType": "Electric",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Usually found in power plants. Easily mistaken for a Poke ball, they have zapped many people."
     },
     {
         "id": "101",
