@@ -781,279 +781,279 @@
         "name": "Rhydon",
         "primaryType": "Ground",
         "secondaryType": "Rock",
-        "description": ""
+        "description": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees."
     },
     {
         "id": "113",
         "name": "Chansey",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "A rare and elusive Pokemon that is said to bring happiness to those who manage to get it."
     },
     {
         "id": "114",
         "name": "Tangela",
         "primaryType": "Grass",
         "secondaryType": "Null",
-        "description": ""
+        "description": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks."
     },
     {
         "id": "115",
         "name": "Kangaskhan",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old."
     },
     {
         "id": "116",
         "name": "Horsea",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water."
     },
     {
         "id": "117",
         "name": "Seadra",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail."
     },
     {
         "id": "118",
         "name": "Goldeen",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen."
     },
     {
         "id": "119",
         "name": "Seaking",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks."
     },
     {
         "id": "120",
         "name": "Staryu",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "An enigmatic Pokemon that can effortlessly regenerate any appendage it loses in battle."
     },
     {
         "id": "121",
         "name": "Starmie",
         "primaryType": "Water",
         "secondaryType": "Psychic",
-        "description": ""
+        "description": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem."
     },
     {
         "id": "122",
         "name": "Mr. Mime",
         "primaryType": "Pyschic",
         "secondaryType": "Null",
-        "description": ""
+        "description": "If interrupted while it is miming, it will slap around the offender with its broad hands."
     },
     {
         "id": "123",
         "name": "Scyther",
         "primaryType": "Bug",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "With ninja-like agility and speed, it can create the illusion that there is more than one."
     },
     {
         "id": "124",
         "name": "Jynx",
         "primaryType": "Ice",
         "secondaryType": "Psychic",
-        "description": ""
+        "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it."
     },
     {
         "id": "125",
         "name": "Electabuzz",
         "primaryType": "Electric",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Normally found near power plants, they can wander away and cause major blackouts in cities."
     },
     {
         "id": "126",
         "name": "Magmar",
         "primaryType": "Fire",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Its body always burns with an orange glow that enables it to hide perfectly among flames."
     },
     {
         "id": "127",
         "name": "Pinsir",
         "primaryType": "Bug",
         "secondaryType": "Null",
-        "description": ""
+        "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard."
     },
     {
         "id": "128",
         "name": "Tauros",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "When it targets an enemy, it charges furiously while whipping its body with its long tails."
     },
     {
         "id": "129",
         "name": "Magikarp",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
     },
     {
         "id": "130",
         "name": "Gyrados",
         "primaryType": "Water",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "Rarely seen in the wild. Huge and visious, it is capable of destroying entire cities in a rage."
     },
     {
         "id": "131",
         "name": "Lapras",
         "primaryType": "Water",
         "secondaryType": "Ice",
-        "description": ""
+        "description": "A Pokemon that has been overhunted almost to extinction. It can ferry people across the water."
     },
     {
         "id": "132",
         "name": "Ditto",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy."
     },
     {
         "id": "133",
         "name": "Eevee",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones."
     },
     {
         "id": "134",
         "name": "Vaporeon",
         "primaryType": "Water",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's."
     },
     {
         "id": "135",
         "name": "Jolteon",
         "primaryType": "Electric",
         "secondaryType": "Null",
-        "description": ""
+        "description": "It accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts."
     },
     {
         "id": "136",
         "name": "Flareon",
         "primaryType": "Fire",
         "secondaryType": "Null",
-        "description": ""
+        "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees."
     },
     {
         "id": "137",
         "name": "Porygon",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "A Pokemon that consists entirely of programming code. Capable of moving freely in cyberspace."
     },
     {
         "id": "138",
         "name": "Omanyte",
         "primaryType": "Rock",
         "secondaryType": "Water",
-        "description": ""
+        "description": "Although long extinct, in rare cases, it can be genetically resurrected from fossils."
     },
     {
         "id": "139",
         "name": "Omanstar",
         "primaryType": "Rock",
         "secondaryType": "Water",
-        "description": ""
+        "description": "A prehistoric Pokemon that died out when its heavy shell made it impossible to catch prey."
     },
     {
         "id": "140",
         "name": "Kabuto",
         "primaryType": "Rock",
         "secondaryType": "Water",
-        "description": ""
+        "description": "A Pokemon that was resurrected from a fossil found in what was once the ocean floor eons ago."
     },
     {
         "id": "141",
         "name": "Kabutops",
         "primaryType": "Rock",
         "secondaryType": "Water",
-        "description": ""
+        "description": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids."
     },
     {
         "id": "142",
         "name": "Aerodactyl",
         "primaryType": "Rock",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "A ferocious, prehistoric Pokemon that goes for the enemy's throat with its serrated saw-like fangs."
     },
     {
         "id": "143",
         "name": "Snorlax",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful."
     },
     {
         "id": "144",
         "name": "Articuno",
         "primaryType": "Ice",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "A legendary bird Pokemon that is said to appear to doomed people who are lost in icy mountains."
     },
     {
         "id": "145",
         "name": "Zapdos",
         "primaryType": "Electric",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "A legendary bird Pokemon that is said to appear from clouds while dropping enormous lightning bolts."
     },
     {
         "id": "146",
         "name": "Moltres",
         "primaryType": "Fire",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames."
     },
     {
         "id": "147",
         "name": "Dratini",
         "primaryType": "Dragon",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Long considered a mythical Pokemon until recently when a small colony was found living underwater."
     },
     {
         "id": "148",
         "name": "Dragonair",
         "primaryType": "Dragon",
         "secondaryType": "Null",
-        "description": ""
+        "description": "A mystical Pokemon that exudes a gentle aura. Has the ability to change climate conditions."
     },
     {
         "id": "149",
         "name": "Dragonite",
         "primaryType": "Dragon",
         "secondaryType": "Flying",
-        "description": ""
+        "description": "An extremely rarely seen marine Pokemon. Its intelligence is said to match that of humans."
     },
     {
         "id": "150",
         "name": "Mewtwo",
         "primaryType": "Pyschic",
         "secondaryType": "Null",
-        "description": ""
+        "description": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments."
     },
     {
         "id": "151",
         "name": "Mew",
         "primaryType": "Pyschic",
         "secondaryType": "Null",
-        "description": ""
+        "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide."
     }
 ]
