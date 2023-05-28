@@ -704,77 +704,77 @@
         "name": "Electrode",
         "primaryType": "Electric",
         "secondaryType": "Null",
-        "description": ""
+        "description": "It stores electric energy under very high pressure. It often explodes with little or no provocation."
     },
     {
         "id": "102",
         "name": "Exeggcute",
         "primaryType": "Grass",
         "secondaryType": "Psychic",
-        "description": ""
+        "description": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
     },
     {
         "id": "103",
         "name": "Exeggutor",
         "primaryType": "Grass",
         "secondaryType": "Psychic",
-        "description": ""
+        "description": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE."
     },
     {
         "id": "104",
         "name": "Cubone",
         "primaryType": "Ground",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Because it nevers removes its skull helmet, no one has ever seen this Pokemon's real face."
     },
     {
         "id": "105",
         "name": "Marowak",
         "primaryType": "Ground",
         "secondaryType": "Null",
-        "description": ""
+        "description": "The bone it holds is its key weapon. It throws the bone skullfully like a boomerang to KO targets."
     },
     {
         "id": "106",
         "name": "Hitmonlee",
         "primaryType": "Fighting",
         "secondaryType": "Null",
-        "description": ""
+        "description": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides."
     },
     {
         "id": "107",
         "name": "Hitmonchan",
         "primaryType": "Fighting",
         "secondaryType": "Null",
-        "description": ""
+        "description": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see."
     },
     {
         "id": "108",
         "name": "Lickitung",
         "primaryType": "Normal",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies."
     },
     {
         "id": "109",
         "name": "Koffing",
         "primaryType": "Poison",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning."
     },
     {
         "id": "110",
         "name": "Weezing",
         "primaryType": "Poison",
         "secondaryType": "Null",
-        "description": ""
+        "description": "Where two kinds of poison gases meet, 2 KOFFINGS can fuse into a WEEZING over many years."
     },
     {
         "id": "111",
         "name": "Rhyhorn",
         "primaryType": "Ground",
         "secondaryType": "Rock",
-        "description": ""
+        "description": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying."
     },
     {
         "id": "112",
