@@ -37,6 +37,13 @@ while True:
     print(f'Good {dayTime}, Trainer. It is hour {currHour} of the day.')
     tName = input('What is your name? \n')
     print(f'How may I be of assistance, {tName}?')
+    print(border)
+    choice = input(f'1. View My Pokedex \n2. Nothing For Now, Thanks!\n{border}\n')
 
-    break
+    # either access pokedex or break loop/exit program
+    if choice == '1':
+        pass
+    elif choice == '2':
+        print(f'Very well, {tName}! Have a marvelous {dayTime}!\n{border}\n')
+        break
 
