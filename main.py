@@ -1,5 +1,6 @@
 import json
 import sqlite3
+from datetime import datetime
 
 # initialize pokedex
 
@@ -12,3 +13,30 @@ with open('poke.json', 'r') as poke:
         con.execute("INSERT INTO pokedex(id, name, primaryType, secondaryType, description) VALUES(?, ?, ?, ?, ?)", (item["id"], item["name"], item["primaryType"], item["secondaryType"], item["description"]))
 con.commit()
 con.close() """
+
+border = '*' * 50
+
+# main loop
+while True:
+
+    # get time
+    now = datetime.now()
+    currHour = int(now.strftime("%H"))
+
+    # check for time of day
+    if currHour < 12:
+        dayTime = 'morning'
+    elif currHour >= 12 and currHour < 17:
+        dayTime ='afternoon'
+    else:
+        dayTime = 'evening'
+    
+    # greet trainer
+
+    print(border)
+    print(f'Good {dayTime}, Trainer. It is hour {currHour} of the day.')
+    tName = input('What is your name? \n')
+    print(f'How may I be of assistance, {tName}?')
+
+    break
+
