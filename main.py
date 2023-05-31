@@ -2,6 +2,7 @@ import json
 import sqlite3
 from datetime import datetime
 import varStore as vs
+import pdfunc as pf
 
 # initialize pokedex
 
@@ -46,7 +47,14 @@ while True:
         pChoice = input(
             f'Great choice, {tName}! Do you\n1. Want to See A Specific Pokemon\nor\n2. Want To See A List Of Pokemon?\n{vs.border}')
         if pChoice == '1':
-            pass
+            dChoice = input(
+                f'Would you like to\n1. Search By ID\nor\n2. Search By Name?\n{vs.border}\n')
+            if dChoice == '1':
+                pf.findByID()
+                continue
+            elif dChoice == '2':
+                pf.findByName()
+                continue
         elif pChoice == '2':
             pass
         else:
