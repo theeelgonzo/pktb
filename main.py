@@ -1,6 +1,7 @@
 import json
 import sqlite3
 from datetime import datetime
+import varStore as vs
 
 # initialize pokedex
 
@@ -50,9 +51,11 @@ while True:
         elif pChoice == '2':
             pass
         else:
-            print(
-                f'I am sorry, {tName}, I do not understand. Please try again.')
+            vs.doof()
             continue
     elif choice == '2':
         print(f'Very well, {tName}! Have a marvelous {dayTime}!\n{border}\n')
         break
+    else:
+        vs.doof()
+        continue
