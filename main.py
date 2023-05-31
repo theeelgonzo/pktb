@@ -27,10 +27,10 @@ while True:
     if currHour < 12:
         dayTime = 'morning'
     elif currHour >= 12 and currHour < 17:
-        dayTime ='afternoon'
+        dayTime = 'afternoon'
     else:
         dayTime = 'evening'
-    
+
     # greet trainer
 
     print(border)
@@ -38,12 +38,21 @@ while True:
     tName = input('What is your name? \n')
     print(f'How may I be of assistance, {tName}?')
     print(border)
-    choice = input(f'1. View My Pokedex \n2. Nothing For Now, Thanks!\n{border}\n')
+    choice = input(
+        f'1. View My Pokedex \n2. Nothing For Now, Thanks!\n{border}\n')
 
     # either access pokedex or break loop/exit program
     if choice == '1':
-        pass
+        pChoice = input(
+            f'Great choice, {tName}! Do you\n1. Want to See A Specific Pokemon\nor\n2. Want To See A List Of Pokemon?\n{border}')
+        if pChoice == '1':
+            pass
+        elif pChoise == '2':
+            pass
+        else:
+            print(
+                f'I am sorry, {tName}, I do not understand. Please try again.')
+            continue
     elif choice == '2':
         print(f'Very well, {tName}! Have a marvelous {dayTime}!\n{border}\n')
         break
-
