@@ -4,3 +4,6 @@
 
 def doof():
     print(f'I am sorry, I do not understand. Please try again.')
+
+
+border = '*' * 50

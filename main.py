@@ -15,7 +15,6 @@ with open('poke.json', 'r') as poke:
 con.commit()
 con.close() """
 
-border = '*' * 50
 
 # main loop
 while True:
@@ -34,18 +33,18 @@ while True:
 
     # greet trainer
 
-    print(border)
+    print(vs.border)
     print(f'Good {dayTime}, Trainer. It is hour {currHour} of the day.')
     tName = input('What is your name? \n')
     print(f'How may I be of assistance, {tName}?')
-    print(border)
+    print(vs.border)
     choice = input(
-        f'1. View My Pokedex \n2. Nothing For Now, Thanks!\n{border}\n')
+        f'1. View My Pokedex \n2. Nothing For Now, Thanks!\n{vs.border}\n')
 
     # either access pokedex or break loop/exit program
     if choice == '1':
         pChoice = input(
-            f'Great choice, {tName}! Do you\n1. Want to See A Specific Pokemon\nor\n2. Want To See A List Of Pokemon?\n{border}')
+            f'Great choice, {tName}! Do you\n1. Want to See A Specific Pokemon\nor\n2. Want To See A List Of Pokemon?\n{vs.border}')
         if pChoice == '1':
             pass
         elif pChoice == '2':
@@ -54,7 +53,8 @@ while True:
             vs.doof()
             continue
     elif choice == '2':
-        print(f'Very well, {tName}! Have a marvelous {dayTime}!\n{border}\n')
+        print(
+            f'Very well, {tName}! Have a marvelous {dayTime}!\n{vs.border}\n')
         break
     else:
         vs.doof()
