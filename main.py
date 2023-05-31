@@ -47,7 +47,7 @@ while True:
             f'Great choice, {tName}! Do you\n1. Want to See A Specific Pokemon\nor\n2. Want To See A List Of Pokemon?\n{border}')
         if pChoice == '1':
             pass
-        elif pChoise == '2':
+        elif pChoice == '2':
             pass
         else:
             print(
