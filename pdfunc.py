@@ -18,3 +18,9 @@ def findByName():
     print(f'{pkName}')
     res = cur.execute("SELECT * FROM pokedex WHERE LOWER(name) = ?", (pkName,))
     print(res.fetchall())
+
+def listByType():
+    pass
+
+def listInOrder():
+    pass
