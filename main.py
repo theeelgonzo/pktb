@@ -55,8 +55,17 @@ while True:
             elif dChoice == '2':
                 pf.findByName()
                 continue
+            else:
+                vs.doof()
         elif pChoice == '2':
-            pass
+            lChoice = input('Do you want to\nSearch by elemental
+                            type\nor\nSearch in order?')
+            if lChoice == '1':
+                pf.listByType()
+            elif lChoice == '2':
+                pf.listInOrder()
+            else:
+                vs.doof()
         else:
             vs.doof()
             continue
