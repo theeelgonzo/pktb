@@ -58,8 +58,8 @@ while True:
             else:
                 vs.doof()
         elif pChoice == '2':
-            lChoice = input('Do you want to\nSearch by elemental
-                            type\nor\nSearch in order?')
+            lChoice = input(
+                'Do you want to\nSearch by elemental type\nor\nSearch in order?')
             if lChoice == '1':
                 pf.listByType()
             elif lChoice == '2':
