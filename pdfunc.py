@@ -22,6 +22,7 @@ def findByName():
 
 
 def listByType():
+    # capture user element search option and store in variable
     elType = input("What element would you like to see?\n1. Grass?\n2. Water?\n3. Fire?\n4. Poison\n5. Bug?\n6. Normal?\n7. Fighting?\n8. Flying?\n9. Ground?\n10. Electric?\n11. Psychic?\n12. Rock?\n13. Ghost?\n14. Ice?\n 15.Dragon?")
     if elType == '1':
         typeChoice = 'Grass'
@@ -55,6 +56,13 @@ def listByType():
         typeChoice = 'Dragon'
     else:
         vs.doof()
+
+    # use choice variable as binding in db search, filter by element primary and sub type
+    con = sqlite3.connect('pokedex.db')
+    cur = con.cursor()
+    res = cur.execute(
+        "SELECT * FROM pokedex WHERE primaryType = ? OR secondaryType = ?", (typeChoice, typeChoice))
+    print(res.fetchall())
 
 
 def listInOrder():
