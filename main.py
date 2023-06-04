@@ -63,10 +63,14 @@ while True:
             if lChoice == '1':
                 pf.listByType()
             elif lChoice == '2':
+                # initialize variables to be used in sql query
                 xId = 1
                 yId = 10
                 while yId < 151:
                     pf.listInOrder(xId, yId)
+
+                    # allows user to continue browsing, incrementing the id vars and returning the next ten results from db
+
                     keepGoing = input(
                         'Would you like to\n1. View More Pokemon?\nor\n2. Go Back?\n')
                     if keepGoing == '1':
