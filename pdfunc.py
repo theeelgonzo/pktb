@@ -67,22 +67,9 @@ def listByType():
 # list every Pokemon in order, 10 at a time
 
 
-def listInOrder():
-    xId = 1
-    yId = 10
-    while True:
-        con = sqlite3.connect('pokedex.db')
-        cur = con.cursor()
-        res = cur.execute(
-            "SELECT * FROM pokedex WHERE id BETWEEN ? AND ?", (xId, yId))
-        print(res.fetchall())
-        keepGoing = input(
-            'Would you like to\n1. See More Pokemon?\nOr\n2. Go back?')
-        if keepGoing == '1':
-            xId += 10
-            yId += 10
-            continue
-        elif keepGoing == '2':
-            break
-        else:
-            vs.doof()
+def listInOrder(xId, yId):
+    con = sqlite3.connect('pokedex.db')
+    cur = con.cursor()
+    res = cur.execute(
+        "SELECT * FROM pokedex WHERE id BETWEEN ? AND ?", (xId, yId))
+    print(res.fetchall())

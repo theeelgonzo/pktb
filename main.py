@@ -63,7 +63,21 @@ while True:
             if lChoice == '1':
                 pf.listByType()
             elif lChoice == '2':
-                pf.listInOrder()
+                xId = 1
+                yId = 10
+                while yId < 151:
+                    pf.listInOrder(xId, yId)
+                    keepGoing = input(
+                        'Would you like to\n1. View More Pokemon?\nor\n2. Go Back?\n')
+                    if keepGoing == '1':
+                        xId += 10
+                        yId += 10
+                        pf.listInOrder(xId, yId)
+                    elif keepGoing == '2':
+                        break
+                    else:
+                        vs.doof()
+
             else:
                 vs.doof()
         else:
