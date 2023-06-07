@@ -9,11 +9,14 @@ class Monster:
         self.hp = 10
         self.level = 1
         self.movesRoster = []
+        # the following arrays define which moves a monster can learn
         self.hmComp = []
         self.tmComp = []
 
 # define trainer class
 
+
 class Trainer:
-    def __init__(self, name):
+    def __init__(self, name, pkRoster):
         self.name = name
+        self.pkRoster = []
