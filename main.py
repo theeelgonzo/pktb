@@ -3,6 +3,7 @@ import sqlite3
 from datetime import datetime
 import varStore as vs
 import pdfunc as pf
+import game as g
 
 # initialize pokedex
 
@@ -40,7 +41,7 @@ while True:
     print(f'How may I be of assistance, {tName}?')
     print(vs.border)
     choice = input(
-        f'1. View My Pokedex \n2. Nothing For Now, Thanks!\n{vs.border}\n')
+        f'1. View My Pokedex\n2. Start A New Game\nor\n3. Nothing For Now, Thanks!\n{vs.border}\n')
 
     # either access pokedex or break loop/exit program
     if choice == '1':
@@ -88,6 +89,10 @@ while True:
             vs.doof()
             continue
     elif choice == '2':
+        print('Sure! We will start a new game!')
+        g.startGame()
+
+    elif choice == '3':
         print(
             f'Very well, {tName}! Have a marvelous {dayTime}!\n{vs.border}\n')
         break

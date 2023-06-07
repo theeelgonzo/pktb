@@ -2,4 +2,4 @@
 # called from main
 
 def startGame():
-    pass
+    print('Would you like to play a game?')
