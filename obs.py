@@ -20,3 +20,6 @@ class Trainer:
     def __init__(self, name, pkRoster):
         self.name = name
         self.pkRoster = []
+
+    def introduce(self):
+        print(f'My name is {self.name} and my starting Pokemon is {self.pkRoster}.')
