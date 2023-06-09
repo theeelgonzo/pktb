@@ -23,6 +23,9 @@ def newGame():
         startPK =='Bulbasaur'
     else:
         vs.doof()
-
+    
+    #initialize new trainer with name and add pokemon to starting roster
     pc = new o.Trainer(pcName, startPK)
     pc.introduce()
+
+
