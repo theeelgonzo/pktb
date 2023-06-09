@@ -23,3 +23,12 @@ class Trainer:
 
     def introduce(self):
         print(f'My name is {self.name} and my starting Pokemon is {self.pkRoster}.')
+
+#define area graph object
+
+class Area:
+    def __init__(self, name, description, goTo, comeFrom):
+        self.name = name
+        self.description = description
+        self.goTo = goTo
+        self.comeFrom = comeFrom
