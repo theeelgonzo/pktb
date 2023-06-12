@@ -27,8 +27,9 @@ class Trainer:
 #define area graph object
 
 class Area:
-    def __init__(self, name, description, goTo, comeFrom):
+    def __init__(self, name, description, goTo, comeFrom, pcIsHere):
         self.name = name
         self.description = description
         self.goTo = goTo
         self.comeFrom = comeFrom
+        self.pcIsHere = False
