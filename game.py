@@ -4,6 +4,10 @@
 import varStore as vs
 import obs as o
 
+#basic game commands
+def lookAtArea():
+    pass # 
+
 def startGame():
     print('Would you like to play a game?')
     newGame = input('Would you like to\n1.Start A New Game?')
