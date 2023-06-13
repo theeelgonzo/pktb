@@ -26,11 +26,11 @@ def newGame():
     startMon = input(
         'What element type would you like your first Pokemon to be?\n1. Fire?\n2. Water?\n3. Grass?\n')
     if startMon == '1':
-        startPK = 'Charmander'
+        startPK = ['Charmander']
     elif startMon == '2':
-        startPK = 'Squirtle'
+        startPK = ['Squirtle']
     elif startMon == '3':
-        startPK == 'Bulbasaur'
+        startPK == ['Bulbasaur']
     else:
         vs.doof()
 
