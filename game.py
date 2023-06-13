@@ -4,9 +4,12 @@
 import varStore as vs
 import obs as o
 
-#basic game commands
+# basic game commands
+
+
 def lookAtArea():
-    pass # 
+    pass
+
 
 def startGame():
     print('Would you like to play a game?')
@@ -16,20 +19,20 @@ def startGame():
     else:
         vs.doof()
 
+
 def newGame():
     pcName = input('What would you like to name your character?\n')
-    startMon = input('What element type would you like your first Pokemon to be?\n1. Fire?\n2. Water?\n3. Grass?\n')
+    startMon = input(
+        'What element type would you like your first Pokemon to be?\n1. Fire?\n2. Water?\n3. Grass?\n')
     if startMon == '1':
         startPK = 'Charmander'
     elif startMon == '2':
         startPK = 'Squirtle'
     elif startMon == '3':
-        startPK =='Bulbasaur'
+        startPK == 'Bulbasaur'
     else:
         vs.doof()
-    
-    #initialize new trainer with name and add pokemon to starting roster
-    pc = new o.Trainer(pcName, startPK)
+
+    # initialize new trainer with name and add pokemon to starting roster
+    pc = o.Trainer(pcName, startPK)
     pc.introduce()
-
-
