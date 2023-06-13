@@ -21,6 +21,7 @@ def startGame():
 
 
 def newGame():
+    startPK = None
     pcName = input('What would you like to name your character?\n')
     startMon = input(
         'What element type would you like your first Pokemon to be?\n1. Fire?\n2. Water?\n3. Grass?\n')

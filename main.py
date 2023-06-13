@@ -90,7 +90,7 @@ while True:
             continue
     elif choice == '2':
         print('Sure! We will start a new game!')
-        g.startGame()
+        g.newGame()
 
     elif choice == '3':
         print(
